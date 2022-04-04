@@ -51,7 +51,7 @@ a {
   color: white;
 }
 .email {
-  font-size: 24px;
+  font-size: 20px;
   display: flex;
   justify-content: center;
   color: var(--primary-color);
